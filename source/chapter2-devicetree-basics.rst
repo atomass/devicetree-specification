@@ -759,7 +759,7 @@ Description:
      of this node (the node in which the *ranges* property appears).
 
    If the property is defined with an ``<empty>`` value, it specifies that the
-   parent and child address space is identical, and no address translation
+   parent and child address space are identical, and no address translation
    is required.
 
    If the property is not present in a bus node, it is assumed that no
